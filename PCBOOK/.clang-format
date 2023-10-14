@@ -1,0 +1,4 @@
+Language: Proto
+Language: go
+
+AlignConsecutiveAssignments: true

@@ -1,0 +1,61 @@
+{
+ "id":  "0580181d-ab26-416c-bb9b-a0d8d97185c6",
+ "brand":  "Dell",
+ "name":  "Vostro",
+ "cpu":  {
+  "brand":  "Intel",
+  "name":  "Core i5-9400F",
+  "numberCores":  8,
+  "numberThreads":  12,
+  "minGhz":  2.5130724036919387,
+  "maxGhz":  4.515324742431712
+ },
+ "ram":  {
+  "value":  "45",
+  "unit":  "GIGABYTE"
+ },
+ "gpus":  [
+  {
+   "brand":  "AMD",
+   "name":  "RX Vega-56",
+   "minGhz":  1.1180384982617115,
+   "maxGhz":  1.9102993009393006,
+   "memory":  {
+    "value":  "4",
+    "unit":  "GIGABYTE"
+   }
+  }
+ ],
+ "storages":  [
+  {
+   "driver":  "SSD",
+   "memory":  {
+    "value":  "327",
+    "unit":  "GIGABYTE"
+   }
+  },
+  {
+   "driver":  "HDD",
+   "memory":  {
+    "value":  "5",
+    "unit":  "TERABYTE"
+   }
+  }
+ ],
+ "screen":  {
+  "sizeInch":  14.733855,
+  "resolution":  {
+   "width":  2764,
+   "height":  1555
+  },
+  "panel":  "IPS",
+  "multitouch":  true
+ },
+ "keyboard":  {
+  "layout":  "QWERTZ"
+ },
+ "weightKg":  2.19586213330369,
+ "priceUsd":  2884.8374329497983,
+ "releaseYear":  2017,
+ "updatedAt":  "2023-08-26T12:28:33.041303300Z"
+}
